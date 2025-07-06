@@ -36,7 +36,7 @@ res.json({
   rating: (Math.random() * 2 + 3).toFixed(1), // random rating between 3.0 and 5.0
   reviews: Math.floor(Math.random() * 900 + 100), // random reviews between 100 and 999
   headline: getRandomHeadline(name, location)
-});
+});g
 
 });
 
