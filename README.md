@@ -1,8 +1,8 @@
 # Mini Local Business Dashboard – Backend
 
 ## 🚀 Demo Video & Live Project
-- **Demo Video:** [Watch here](https://your-demo-video-link.com)
-- **Live Project:** [View live](https://your-live-project-url.com)
+- **Demo Video:** [Watch here](https://drive.google.com/file/d/1VjpBYiFLN9fRsj0HArR5aCHWL418VZGC/view?usp=sharing)
+- **Live Project:** [View live](https://growth-pro-ai-full-git-3f6360-velugondaiah-garlapatis-projects.vercel.app/)
 
 A Node.js/Express backend that simulates Google Business and SEO data for local businesses. Provides endpoints for business data and AI-generated SEO headlines, designed to work with the React frontend.
 
@@ -18,7 +18,7 @@ A Node.js/Express backend that simulates Google Business and SEO data for local 
 - [npm](https://www.npmjs.com/) (comes with Node.js)
 
 ## Installation
-1. Open a terminal and navigate to this `backend` directory.
+1. Open a terminal and navigate to this `cd backend` directory.
 2. Install dependencies:
    ```bash
    npm install
@@ -27,9 +27,9 @@ A Node.js/Express backend that simulates Google Business and SEO data for local 
 ## Running the Server
 1. Start the backend server:
    ```bash
-   npm start
+   nodemon index.js
    ```
-2. The server will run at [http://localhost:5000](http://localhost:5000)
+2. The server will run at [http://localhost:3001](http://localhost:3001)
 
 ## API Endpoints
 ### POST `/business-data`
